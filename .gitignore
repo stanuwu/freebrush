@@ -1,0 +1,22 @@
+# Build output
+/build/
+
+# Visual Studio / MSBuild
+.vs/
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+ipch/
+
+# Intermediate + link artifacts
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.idb
+*.tlog
+*.log
