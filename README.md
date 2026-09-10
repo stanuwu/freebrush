@@ -5,6 +5,7 @@ Offline support for a certain 3d brush application.
 - Locate install directory (usually `C:\Program Files\Maxon ZBrush 2026`)
 - Download `version.dll` from [releases](https://github.com/stanuwu/freebrush/releases/latest)
 - Copy `version.dll` into the install directory
+- You may need to add an exception to windows defender, or smart app control
 
 ## Credits
 - [Microsoft Detours](https://github.com/microsoft/detours)
